@@ -1,8 +1,6 @@
-Responsive HTML5 website template for products
 
-Theme name:
 =======================================================================
-Velocity
+OpenLegal
 
 Theme version:
 =======================================================================
@@ -12,12 +10,11 @@ Release Date:
 =======================================================================
 24 Sep 2014
 
-Author: 
+Author: Strategia Inc. -kevroe/ricgruber
 =======================================================================
-Xiaoying Riley at 3rd Wave Media
 
-Contact:
+Contact: Strategia Inc.
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: 3rdwave_themes
+Web: http://strategiainc.com/
+Email: info@strategiainc.com
+Twitter: @strategiainc
