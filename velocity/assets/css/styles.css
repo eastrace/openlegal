@@ -3373,11 +3373,11 @@ input[type="button"] {
 #comparetable {width: 100%; table-layout: fixed; text-align: center; margin: 4em 0; border-collapse: collapse; }
 #comparetable tr {background: transparent!important;}
 #comparetable td,
-#comparetable th {padding: 20px; text-align: center;}
+#comparetable th {padding: 10px; text-align: center;}
 #comparetable td.rowTitle {text-align: left;}
 .blank {background: none!important; border: none!important;}
- .blueshine th {background-color: #c93131; font-size: 22px; color: #ffffff; text-align: center; font-weight: 600; text-shadow: 0 1px 0 #c93131; border: 1px solid #9fb6c8;}
- .blueshine td {background-color: #f0f1f1; border: 1px solid #c8d6e2;} 
+ .blueshine th {background-color: #c93131; font-size: 22px; color: #ffffff; text-align: center; font-weight: 600; text-shadow: 0 1px 0 #c93131; border: 1px solid #9a1f1f;}
+ .blueshine td {background-color: #f0f1f1; border: 1px solid #9a1f1f;} 
  .blueshine td.rowTitle {border-left: 4px solid #333}
 /* END COMPARISON TABLE STYLES */
 
