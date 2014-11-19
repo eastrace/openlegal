@@ -103,7 +103,8 @@ a.btn-ghost .text,
   -moz-box-shadow: none;
   box-shadow: none;
   height: 40px;
-  border-color: #eeeeee;
+ border-color: #cf2f39;
+border-radius: 0px;
 }
 .form-control::-webkit-input-placeholder {
   /* WebKit browsers */
@@ -1381,9 +1382,10 @@ input[type="button"] {
 /* ======= Contact section ======= */
 .contact-section {
   padding: 80px 0;
-  padding-top: 90px;
+  padding-top: 315px;
   position: relative;
-  z-index: 10;
+  z-index: 0;
+  margin-left: 240px;
 }
 .contact-section .title {
   font-size: 36px;
@@ -1405,14 +1407,14 @@ input[type="button"] {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
-  border-radius: 4px;
+  border-radius: 0px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid #eeeeee;
   -webkit-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0px 1px #cf2f39;
 }
 .contact-section .contact-form .error {
   color: #ec6952;
@@ -3749,4 +3751,150 @@ margin-top: 60px;
 background-color: #f0f1f4;
 height: 110px;
 width: 2000px;
+}
+.row6 {
+margin-right: 0px;
+margin-left: -55px;
+margin-top: 10px;
+width: 1200px;
+}
+.row7 {
+margin-right: -15px;
+margin-left: -15px;
+margin-top: 130px;
+line-height: 2.428571;
+}
+
+/* ======= Steps 3======= */
+.steps3 {
+  background: #ffffff;
+  padding-top: 210px;
+  padding-bottom: 0px;
+  overflow-x: hidden;
+}
+}
+.steps3 .title {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+.steps3 .title3 {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 60px;
+  line-height: 98px;
+}
+.steps3 .step3 {
+  padding: 0px 60px;
+  color: #666666;
+}
+.steps3 .step3 .title {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.steps3 .step3 .title .number {
+  width: 150px;
+  height: 150px;
+  display: block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 0px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  text-align: center;
+  background: #ffffff;
+  border: 2px solid #c93131;
+  color: #fff;
+  margin: 0 auto;
+  padding-top: 25px;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: arial, sans-serif;
+  margin-bottom: 30px;
+}
+.steps3 .step3 .title .text {
+  color: #c93131;
+  font-weight: bold;
+  font-size: 16px;
+}
+.steps3 .btn-cta-primary1 {
+  margin: 0 auto;
+  margin-top: 60px;
+  font-size: 20px;
+}
+
+h5 {
+font-size: 18px;
+text-decoration: none;
+}
+
+
+/* ======= Steps 4======= */
+.steps4 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 120px;
+  overflow-x: hidden;
+}
+}
+.steps4 .title {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+.steps4 .title {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 60px;
+  line-height: 98px;
+}
+.steps4 .step4 {
+  padding: 0px 60px;
+  color: #666666;
+}
+.steps4 .step4 .title {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.steps4 .step4 .title .number {
+  width: 150px;
+  height: 150px;
+  display: block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 0px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  text-align: center;
+  background: #ffffff;
+  border: 2px solid #c93131;
+  color: #fff;
+  margin: 0 auto;
+  padding-top: 25px;
+  font-size: 26px;
+  font-weight: bold;
+  font-family: arial, sans-serif;
+  margin-bottom: 30px;
+}
+.steps4 .step4 .title .text {
+  color: #c93131;
+  font-weight: bold;
+  font-size: 16px;
+}
+.steps4 .btn-cta-primary1 {
+  margin: 0 auto;
+  margin-top: 60px;
+  font-size: 20px;
 }
