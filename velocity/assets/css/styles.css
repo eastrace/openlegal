@@ -1331,7 +1331,7 @@ input[type="button"] {
   font-size: 36px;
   font-weight: 300;
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 152px;
 }
 .faq .panel {
   background: #fff;
@@ -2536,6 +2536,7 @@ input[type="button"] {
 }
 .footer .footer-col a {
   color: #ffffff;
+  text-decoration: none;
 }
 .footer .footer-col a:hover {
   color: #c93131;
@@ -3447,17 +3448,17 @@ margin-top: 130px;
 }
 .pricing2 .item2 {
   padding: 0;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  -o-border-radius: 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
   border-radius: 0px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  -webkit-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0 -1px 1px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0 4px 1px rgba(0, 0, 0, 0.05);
-  box-shadow: 0 4px 14px #000000;
+
   margin-bottom: 30px;
   margin-left: 22px;
   margin-right: 6px;
@@ -3486,38 +3487,36 @@ margin-top: 130px;
   padding-bottom: 45px;
 }
 .pricing2 .item2 .item-inner2 {
-  background: #fff;
+  background: #f0f1f4;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
-  border-radius: 4px;
+  border-radius: 0px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   position: relative;
-  border: 0px solid #eeeeee;
+  border: 0px solid #ffffff;
 }
 .pricing2 .item2 .item-inner2:hover {
-  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
-  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  background-color: #bfbfbf;
 }
 .pricing2 .item2 .heading2 {
-  margin-top: 0;
+  margin-top: -7px;
   padding: 30px 15px;
-  -webkit-border-top-right-radius: 4px;
+  -webkit-border-top-right-radius: 0px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
-  -webkit-border-top-left-radius: 4px;
-  -moz-border-radius-topright: 4px;
+  -webkit-border-top-left-radius: 0px;
+  -moz-border-radius-topright: 0px;
   -moz-border-radius-bottomright: 0;
   -moz-border-radius-bottomleft: 0;
-  -moz-border-radius-topleft: 4px;
-  border-top-right-radius: 4px;
+  -moz-border-radius-topleft: 0px;
+  border-top-right-radius: 0px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
-  border-top-left-radius: 4px;
+  border-top-left-radius: 0px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
@@ -3529,6 +3528,7 @@ margin-top: 130px;
   font-size: 18px;
   border-bottom: 0px dashed #eeeeee;
   color: #444444;
+
 }
 .pricing2 .item2 .content2 {
   padding: 30px 15px;
@@ -3606,7 +3606,7 @@ margin-top: 130px;
   margin-bottom: 30px;
 }
 .pricing2 .item2 .feature-list2 li {
-  border-bottom: 0px solid #f3f3f3;
+  border-bottom: 0px solid #ffffff;
   padding: 10px;
 }
 .pricing2 .item2 .feature-list2 li .fa2 {
@@ -3621,13 +3621,17 @@ margin-top: 130px;
 }
 
 .fa2 {
-  font-size: 48px;
+  font-size: 54px;
 }
 
+.fa3 {
+  font-size: 34px;
+  color: #47a3da;
+}
 /* ======= Steps ======= */
 .steps2 {
   background: #ffffff;
-  padding-top: 250px;
+  padding-top: 210px;
   padding-bottom: 120px;
 }
 .steps2 .title {
@@ -3635,6 +3639,13 @@ margin-top: 130px;
   font-weight: 300;
   margin-top: 0;
   margin-bottom: 60px;
+}
+.steps2 .title2 {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 60px;
+  line-height: 98px;
 }
 .steps2 .step2 {
   padding: 30px 60px;
@@ -3712,11 +3723,10 @@ a.btn-cta-primary2:hover,
 }
 
 .row2 {
-margin-right: -15px;
-margin-left: -15px;
-margin-top: 300px;
-
-
+margin-right: 0px;
+margin-left: -159px;
+margin-top: 200px;
+width: 1500px;
 }
 
 .row3 {
@@ -3724,4 +3734,19 @@ margin-right: -15px;
 margin-left: -15px;
 margin-top: 130px;
 line-height: 2.428571;
+}
+
+.row4 {
+margin-right: -15px;
+margin-left: -15px;
+margin-top: 130px;
+line-height: 2.428571;
+}
+.row5 {
+margin-right: -38px;
+margin-left: -410px;
+margin-top: 60px;
+background-color: #f0f1f4;
+height: 110px;
+width: 2000px;
 }
