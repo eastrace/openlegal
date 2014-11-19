@@ -1072,7 +1072,7 @@ input[type="button"] {
 }
 /* ======= Pricing ======= */
 .pricing {
-  padding: 80px 0;
+  padding: 25px 0;
   padding-top: 90px;
   position: relative;
   z-index: 10;
@@ -1125,17 +1125,17 @@ input[type="button"] {
   padding-bottom: 45px;
 }
 .pricing .item .item-inner {
-  background: #fff;
+  background: #f0f1f4;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
-  border-radius: 4px;
+  border-radius: 0px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   position: relative;
-  border: 1px solid #eeeeee;
+  border: 1px solid #bfbfbf;
 }
 .pricing .item .item-inner:hover {
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
@@ -1162,17 +1162,17 @@ input[type="button"] {
   background-clip: padding-box;
 }
 .pricing .item .heading .title {
-  margin-bottom: 30px;
+  margin-bottom: -27px;
   padding-bottom: 30px;
   font-weight: 400;
-  font-size: 18px;
-  border-bottom: 1px dashed #eeeeee;
+  font-size: 28px;
+  border-bottom: 0px dashed #eeeeee;
   color: #444444;
 }
 .pricing .item .content {
   padding: 30px 15px;
   padding-top: 0;
-  font-size: 14px;
+  font-size: 16px;
 }
 .pricing .item .price-figure {
   -webkit-border-radius: 50%;
@@ -1245,7 +1245,7 @@ input[type="button"] {
   margin-bottom: 30px;
 }
 .pricing .item .feature-list li {
-  border-bottom: 1px solid #f3f3f3;
+  border-bottom: 1px solid #666666;
   padding: 10px;
 }
 .pricing .item .feature-list li .fa {
