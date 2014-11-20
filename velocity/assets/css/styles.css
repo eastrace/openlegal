@@ -50,7 +50,7 @@ a.btn-cta-primary,
   background: #47a3da;
   border: 0px solid #c93131;
   color: #fff;
-  border-radius: 0;
+  border-radius: 4px;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
@@ -3380,7 +3380,7 @@ input[type="button"] {
 .blank {background: none!important; border: none!important;}
  .blueshine th {background-color: #c93131; font-size: 22px; color: #ffffff; text-align: center; font-weight: 600; text-shadow: 0 1px 0 #c93131; border: 1px solid #9a1f1f;}
  .blueshine td {background-color: #f0f1f1; border: 2px solid #ccc;} 
- .blueshine td.rowTitle {border-left: 4px solid #428bca}
+ .blueshine td.rowTitle {border-left: 4px solid #444444}
 /* END COMPARISON TABLE STYLES */
 
 /* Button for Packages */
@@ -3494,7 +3494,7 @@ margin-top: 130px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
-  border-radius: 0px;
+  border-radius: 4px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
@@ -3822,13 +3822,13 @@ width: 1165px;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  border-radius: 0px;
+  border-radius: 4px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   text-align: center;
   background: #f0f1f4;
-  border: 0px solid #c93131;
+  border: 2px solid #ccc;
   color: #fff;
   margin: 0 auto;
   padding-top: 25px;
@@ -4038,7 +4038,9 @@ a.btn-cta-primary3:hover,
 .nav-justified>li>a {
 margin-bottom: 0;
 background-color: #f0f1f4;
-border-radius: 0px;
+border-radius: 4px;
+border: 1px solid #bfbfbf;
+color: #444444;
 }
 
 .row9 {
@@ -4061,5 +4063,9 @@ margin-right: 4px;
 .nav-justified {
 width: 50%;
 margin-left: 289px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {  
+  background-color: #47a3da;
 }
 
