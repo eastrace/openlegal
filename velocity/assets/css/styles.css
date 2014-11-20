@@ -12,6 +12,7 @@ body {
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden; 
 }
 p {
   margin-bottom: 15px;
@@ -3372,7 +3373,8 @@ input[type="button"] {
 /* Large devices (large desktops, 1200px and up) */
 
 /* START COMPARISON TABLE STYLES */
-#comparetable {width: 100%; table-layout: fixed; text-align: center; margin: 3em 0; border-collapse: collapse; }
+#comparetable {width: 100%; table-layout: fixed; text-align: center; margin-top: 80px;
+margin-bottom: 20px; border-collapse: collapse; }
 #comparetable tr {background: transparent!important;}
 #comparetable td,
 #comparetable th {padding: 10px; text-align: center;}
@@ -4259,3 +4261,10 @@ margin-left: 289px;
 .pricing3 .item .feature-list li.disabled .fa {
   color: #999999;
 }
+
+/* Disclaimer Font */
+
+#disclaimer {
+  font-size: 12px;
+}
+ 
