@@ -875,7 +875,7 @@ input[type="button"] {
   margin-bottom: 60px;
 }
 .features-tabbed .tab-content {
-  padding: 60px 0px;
+  padding: 0px 0px;
 }
 .features-tabbed .tab-content .title {
   font-size: 16px;
