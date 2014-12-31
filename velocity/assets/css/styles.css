@@ -209,7 +209,7 @@ input[type="button"] {
   display: inline-block;
   text-align: center;
   line-height: 1.4;
-  max-width: 155px;
+  max-width: 250px;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 0px;
   -webkit-border-bottom-left-radius: 0px;
