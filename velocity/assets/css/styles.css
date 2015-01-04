@@ -470,6 +470,19 @@ input[type="button"] {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.headline-bg7 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 350px;
+  background: #253340 url('../images/background/bg-header-small-7.jpg') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /* ======= Promo ======= */
 .promo {
   padding-top: 120px;
@@ -3255,7 +3268,7 @@ input[type="button"] {
     color: #0352a0;
     background: #fff;
     padding-left: 0;
-    padding-top: 25px;
+    padding-top: 12px;
   }
   .main-nav {
     float: right !important;
