@@ -62,14 +62,14 @@ a.btn-cta-primary:hover,
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: ;
-  border: 2px solid #0352a0;
+  border: 2px solid #f6f6f6;
   color: #ffffff;
-  border-radius: 0;
+  border-radius: 4px;
 }
 a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
   background: #153e7e;
-  border: 2px solid #153e7e;
+  border: 2px solid #F6f6f6;
   color: #fff;
 }
 a.btn-ghost,
@@ -183,7 +183,7 @@ input[type="button"] {
   top: 0;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item a {
-  color: #666666;
+  color: #898989;
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
@@ -285,10 +285,14 @@ input[type="button"] {
 }
 .header .main-nav .nav .nav-item a {
   color: #fff;
-  color: rgba(255, 255, 255, 0.8);
+  
 }
 .header .main-nav .nav .nav-item a:hover {
-  color: #153e7e;
+  color: #898989;
+  background: none;
+}
+.header.navbar-fixed-top .main-nav .nav .nav-item a:hover {
+   color: #666666;
   background: none;
 }
 .header .main-nav .nav .nav-item a:focus {
@@ -483,6 +487,19 @@ input[type="button"] {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.headline-bg8 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 350px;
+  background: #253340 url('../images/background/bg-header-small-1.jpg') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 /* ======= Promo ======= */
 .promo {
   padding-top: 120px;
@@ -495,7 +512,7 @@ input[type="button"] {
 .promo .title {
   font-size: 46px;
   margin-bottom: 20px;
-  margin-top: 0;
+  margin-top: -40px;
   font-weight: 700;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
 }
@@ -540,7 +557,7 @@ input[type="button"] {
 }
 .section .intro {
   max-width: 700px;
-  margin: 0 auto;
+  margin: -8px auto;
   margin-bottom: 60px;
   text-align: center;
   color: #999999;
@@ -813,7 +830,7 @@ input[type="button"] {
 .cta-section {
   background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
   background-size: cover;
-  min-height: 420px;
+  min-height: 350px;
   color: #fff;
   padding-top: 80px;
   border: none;
@@ -827,14 +844,14 @@ input[type="button"] {
 .cta-section .title {
   font-size: 36px;
   font-weight: 300;
-  margin-top: 0;
-  margin-bottom: 60px;
+  margin-top: 15px;
+  margin-bottom: 20px;
 }
 .cta-section .btn-cta {
   font-size: 20px;
 }
 .cta-section .intro {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   color: #fff;
 }
 .cta-section .counting {
@@ -3294,7 +3311,8 @@ input[type="button"] {
     margin-bottom: 45px;
   }
   .promo .btn-link {
-    margin-top: 15px;
+    margin-top: -25px;
+    margin-bottom: 20px;
   }
   .why .item .content {
     margin-bottom: inherit;
@@ -4290,4 +4308,34 @@ margin-left: 289px;
 
  #disclaimer {
   font-size: 12px;
+}
+
+/* ======= cta-section ======= */
+.cta-section2 {
+  background: #f5f5f5;
+  background-size: cover;
+  min-height: 80px;
+  color: #444444;
+  padding-top: 80px;
+  border: none;
+}
+.cta-section2 .title2 {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.cta-section2 .btn-cta2 {
+  font-size: 20px;
+}
+.cta-section2 .intro2 {
+  margin-bottom: 20px;
+  color: #fff;
+}
+.cta-section2 .counting2 {
+  color: #0352a0;
+  font-weight: bold;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
 }
