@@ -576,7 +576,7 @@ input[type="button"] {
 /* ======= Why ======= */
 .why {
   padding-top: 80px;
-  padding-bottom: 80px;
+  padding-bottom: 20px;
 }
 .why .title {
   font-size: 36px;
@@ -589,7 +589,7 @@ input[type="button"] {
   font-size: 18px;
 }
 .why .item {
-  padding: 90px 0;
+  padding: 70px 0;
   border-bottom: 1px solid #eeeeee;
 }
 .why .item.last-item {
@@ -679,6 +679,7 @@ input[type="button"] {
 .why .figure img {
   margin-left: auto;
   margin-right: auto;
+  border-radius: 4px;
 }
 .why .control {
   position: absolute;
@@ -701,7 +702,7 @@ input[type="button"] {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  margin: 0 auto;
+  margin: 30px auto;
   text-align: center;
   -webkit-opacity: 0.9;
   -moz-opacity: 0.9;
@@ -2315,6 +2316,7 @@ input[type="button"] {
 .has-full-screen-bg .header h1.logo {
   float: none;
   text-align: center;
+
 }
 .has-full-screen-bg .header h1.logo a {
   margin: 0 auto;
@@ -2322,7 +2324,7 @@ input[type="button"] {
 .access-section {
   padding-bottom: 75px;
   padding-top: 0px;
-  padding-left: 230px;
+  padding-left: 205px;
   padding-right: 10px;
 }
 .access-section .form-box .form-box-inner {
