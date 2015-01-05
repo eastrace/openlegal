@@ -3268,7 +3268,7 @@ input[type="button"] {
   }
   .header.navbar-fixed-top {
     position: fixed;
-    background: #fff;
+    background: #BCBBB5;
     z-index: 1000;
     height: 80px;
     top: -10px;
@@ -3286,7 +3286,7 @@ input[type="button"] {
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     color: #0352a0;
-    background: #fff;
+    /*background: #fff;*/
     padding-left: 0;
     padding-top: 12px;
   }
