@@ -105,7 +105,7 @@ a.btn-ghost .text,
   box-shadow: none;
   height: 40px;
  border-color: #ccc;
-border-radius: 0px;
+border-radius: 4px;
 }
 .form-control::-webkit-input-placeholder {
   /* WebKit browsers */
@@ -282,6 +282,7 @@ input[type="button"] {
 .header .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary:hover {
   border: 1px solid #153e7e;
   background: #153e7e;
+  color: #f6f6f6;
 }
 .header .main-nav .nav .nav-item a {
   color: #fff;
