@@ -183,7 +183,7 @@ input[type="button"] {
   top: 0;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item a {
-  color: #898989;
+  color: #ffffff;
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
@@ -293,7 +293,7 @@ input[type="button"] {
   background: none;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item a:hover {
-   color: #666666;
+   color: #898989;
   background: none;
 }
 .header .main-nav .nav .nav-item a:focus {
@@ -3268,7 +3268,7 @@ input[type="button"] {
   }
   .header.navbar-fixed-top {
     position: fixed;
-    background: #BCBBB5;
+    background: #1e1e1e;
     z-index: 1000;
     height: 80px;
     top: -10px;
