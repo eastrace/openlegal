@@ -4340,3 +4340,16 @@ margin-left: 289px;
   -moz-opacity: 1;
   opacity: 1;
 }
+
+/*Mailchimp Form Style*/
+
+#mc_embed_signup {
+  background:#1e1e1e; 
+  clear:
+  left; 
+  font:14px Helvetica,Arial,sans-serif;  
+  width:221px; 
+  border-radius:4px; 
+  color: #b3b3b3;
+
+}
