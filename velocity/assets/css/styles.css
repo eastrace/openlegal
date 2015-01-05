@@ -674,7 +674,7 @@ input[type="button"] {
   color: #b3b3b3;
 }
 .why .figure .figure-caption a:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 .why .figure img {
   margin-left: auto;
@@ -964,7 +964,7 @@ input[type="button"] {
   color: #b3b3b3;
 }
 .features-tabbed .tab-content .figure .figure-caption a:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 .nav-tabs {
   border: none;
@@ -1395,14 +1395,14 @@ input[type="button"] {
   text-decoration: none;
 }
 .faq .panel .panel-title .active {
-  color: #ec6952;
+  color: #00439a;
 }
 .faq .panel .panel-title .panel-toggle .fa {
   margin-right: 10px;
   color: #0352a0;
 }
 .faq .panel .panel-title:hover .fa {
-  color: #ec6952;
+  color: #00439a;
 }
 .faq .contact-lead {
   margin-top: 60px;
@@ -1451,7 +1451,7 @@ input[type="button"] {
   box-shadow: 0 0px 0px #cf2f39;
 }
 .contact-section .contact-form .error {
-  color: #ec6952;
+  color: #00439a;
   font-family: arial, sans-serif;
   display: block;
   font-size: 14px;
@@ -1491,7 +1491,7 @@ input[type="button"] {
   color: #666666;
 }
 .contact-other-section .other-info li a:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 .contact-other-section .other-info li .fa {
   position: absolute;
@@ -1720,7 +1720,7 @@ input[type="button"] {
   color: #fff;
 }
 .blog-slider .flex-caption a.more-link:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 /* Blog homepage */
 .blog-list .post {
@@ -1836,7 +1836,7 @@ input[type="button"] {
   color: #999999;
 }
 .blog-list .post .content .meta li a:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 /* Single blog post */
 .blog-entry-wrapper {
@@ -1957,7 +1957,7 @@ input[type="button"] {
   color: #999999;
 }
 .blog-entry-wrapper .blog-entry .blog-entry-content .figure .figure-caption a:hover {
-  color: #ec6952;
+  color: #00439a;
 }
 .blog-entry-wrapper .blog-entry .blog-entry-content .custom-list-style {
   margin-bottom: 30px;
@@ -1968,7 +1968,7 @@ input[type="button"] {
 }
 .blog-entry-wrapper .blog-entry .blog-entry-content .custom-list-style li .fa {
   margin-right: 10px;
-  color: #ec6952;
+  color: #00439a;
 }
 .blog-entry-wrapper .blog-entry .post-nav {
   margin-bottom: 60px;
@@ -1996,7 +1996,7 @@ input[type="button"] {
   line-height: 1.6;
 }
 .blog-entry-wrapper .custom-quote .fa {
-  color: #ec6952;
+  color: #00439a;
   margin-right: 10px;
 }
 .blog-entry-wrapper .custom-quote .source {
@@ -2030,7 +2030,7 @@ input[type="button"] {
 .blog-page .header h1.logo a {
   max-width: inherit;
   background: none;
-  color: #ec6952;
+  color: #00439a;
   padding-left: 0;
   padding-top: 25px;
 }
@@ -2250,7 +2250,7 @@ input[type="button"] {
   font-size: 18px;
 }
 .story-section .team .member .social-list a:hover {
-  background: #ec6952;
+  background: #00439a;
 }
 /* ======= Modal ======= */
 .modal.modal-video .modal-dialog {
@@ -2288,7 +2288,7 @@ input[type="button"] {
   z-index: 10;
 }
 .modal.modal-video button.close:hover {
-  color: #ec6952;
+  color: #00439a;
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
@@ -2458,7 +2458,7 @@ input[type="button"] {
 }
 .access-section .forgot-password a:hover {
   text-decoration: underline;
-  color: #ec6952;
+  color: #00439a;
 }
 .access-section .divider {
   border-left: none;
@@ -2658,7 +2658,7 @@ input[type="button"] {
   background-clip: padding-box;
   border: none;
   margin-right: 5px;
-  color: #ec6952;
+  color: #00439a;
 }
 .pagination li a:hover {
   color: #da3518;
@@ -2669,7 +2669,7 @@ input[type="button"] {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-  background-color: #ec6952;
+  background-color: #00439a;
   border: none;
 }
 .pagination > li > a:hover,
@@ -2745,7 +2745,7 @@ input[type="button"] {
 }
 .searchbox-container .searchbox.searchbox-open .searchbox-icon,
 .searchbox-container .searchbox.searchbox-open .searchbox-submit {
-  background: #ec6952;
+  background: #00439a;
   color: #fff;
   -webkit-border-top-right-radius: 4px;
   -webkit-border-bottom-right-radius: 4px;
@@ -2906,7 +2906,7 @@ input[type="button"] {
   border: 2px solid #000;
 }
 .config-panel #color-options li.theme-1 a {
-  background: #ec6952;
+  background: #00439a;
 }
 .config-panel #color-options li.theme-2 a {
   background-color: #28a5a8;
@@ -3075,7 +3075,7 @@ input[type="button"] {
   }
   .searchbox-icon,
   .searchbox-submit {
-    background: #ec6952;
+    background: #00439a;
     color: #fff;
     -webkit-border-top-right-radius: 4px;
     -webkit-border-bottom-right-radius: 4px;
