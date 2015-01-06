@@ -189,8 +189,8 @@ input[type="button"] {
   opacity: 1;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary {
-  background: #0352a0;
-  border-color: #0352a0;
+  background: ;
+  border-color: #ffffff;
 }
 .header.navbar-fixed-top .main-nav .nav .dropdown-menu a {
   color: #fff;
