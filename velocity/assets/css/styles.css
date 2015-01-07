@@ -3665,6 +3665,11 @@ margin-top: 130px;
   font-size: 54px;
 }
 
+.fa2:hover {
+  background-color: #ffffff;
+  opacity: 0.8;
+}
+
 .fa3 {
   font-size: 34px;
   color: #47a3da;
