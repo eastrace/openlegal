@@ -575,8 +575,8 @@ input[type="button"] {
 }
 /* ======= Why ======= */
 .why {
-  padding-top: 80px;
-  padding-bottom: 20px;
+  padding-top: 50px;
+  padding-bottom: 0px;
 }
 .why .title {
   font-size: 36px;
@@ -794,7 +794,7 @@ input[type="button"] {
 /* ======= Press ======= */
 .press {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #f5f5f5;
 }
 .press .title {
@@ -832,9 +832,9 @@ input[type="button"] {
 .cta-section {
   background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
   background-size: cover;
-  min-height: 350px;
+  min-height: 250px;
   color: #fff;
-  padding-top: 80px;
+  padding-top: 30px;
   border: none;
 }
 .cta-section.pricing-cta-section {
@@ -1359,8 +1359,8 @@ input[type="button"] {
 /* ======= FAQ Section ======= */
 .faq {
   background: #f5f5f5;
-  padding-top: 80px;
-  padding-bottom: 120px;
+  padding-top: 145px;
+  padding-bottom: 60px;
 }
 .faq .title {
   font-size: 36px;
@@ -3663,6 +3663,7 @@ margin-top: 130px;
 
 .fa2 {
   font-size: 54px;
+   
 }
 
 .fa2:hover {
@@ -4355,6 +4356,37 @@ margin: 0 auto;
   -moz-opacity: 1;
   opacity: 1;
 }
+
+/* ======= cta-section ======= */
+.cta-section3 {
+  background: #f5f5f5;
+  background-size: cover;
+  min-height: 80px;
+  color: #444444;
+  padding-top: 30px;
+  border: none;
+}
+.cta-section3 .title2 {
+  font-size: 36px;
+  font-weight: 300;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.cta-section3 .btn-cta2 {
+  font-size: 20px;
+}
+.cta-section3 .intro2 {
+  margin-bottom: 20px;
+  color: #fff;
+}
+.cta-section3 .counting2 {
+  color: #0352a0;
+  font-weight: bold;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+
 
 /*Mailchimp Form Style*/
 
