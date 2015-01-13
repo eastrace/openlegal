@@ -832,9 +832,9 @@ input[type="button"] {
 .cta-section {
   background: #253340 url('../images/background/bg-footer-1.jpg') no-repeat left top;
   background-size: cover;
-  min-height: 250px;
+  min-height: 280px;
   color: #fff;
-  padding-top: 30px;
+  padding-top: 50px;
   border: none;
 }
 .cta-section.pricing-cta-section {
