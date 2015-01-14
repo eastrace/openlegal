@@ -44,7 +44,7 @@ a.btn .fa {
 }
 a.btn-cta,
 .btn-cta {
-  padding: 8px 30px;
+  padding: 7px 18px;
 }
 a.btn-cta-primary,
 .btn-cta-primary {
@@ -910,7 +910,7 @@ input[type="button"] {
   margin-bottom: 20px;
 }
 .cta-section4 .btn-cta {
-  font-size: 20px;
+  font-size: 16px;
 }
 .cta-section4 .intro {
   margin-bottom: 20px;
