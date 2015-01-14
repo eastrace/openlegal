@@ -538,7 +538,7 @@ input[type="button"] {
 .promo .title {
   font-size: 46px;
   margin-bottom: 20px;
-  margin-top: -40px;
+  margin-top: 8px;
   font-weight: 700;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
 }
@@ -830,7 +830,7 @@ input[type="button"] {
 }
 .press .press-list {
   margin-top: 10px;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
   text-align: center;
 }
 .press .press-list.last {
@@ -897,7 +897,7 @@ input[type="button"] {
 .cta-section4 {
   background: #253340 url('../images/background/bg-footer-4.jpg') no-repeat left top;
   background-size: cover;
-  min-height: 280px;
+  min-height: 385px;
   color: #fff;
   padding-top: 50px;
   border: none;
@@ -3357,6 +3357,7 @@ input[type="button"] {
   .navbar-form .form-control {
     width: 150px;
   }
+
   .header h1.logo {
     float: left;
     margin: inherit;
@@ -4471,3 +4472,9 @@ padding-top: 30px;
 padding-bottom: 0px;
 padding-top: 0px;
 }
+
+.tightpackage {
+padding-bottom: 0px;
+padding-top: 0px;
+}
+
