@@ -906,7 +906,7 @@ input[type="button"] {
 .cta-section4 .title {
   font-size: 36px;
   font-weight: 300;
-  margin-top: 15px;
+  margin-top: 70px;
   margin-bottom: 20px;
 }
 .cta-section4 .btn-cta {
@@ -2700,6 +2700,8 @@ input[type="button"] {
 .footer .bottom-bar .copyright {
   line-height: 1.6;
 }
+
+
 /* ======= Pagination ======= */
 .pagination {
   margin-bottom: 60px;
@@ -4503,6 +4505,11 @@ padding-top: 0px;
 
 .borderbottom {
   border-bottom: 1px solid #eeeeee;
+  font-size:16px;
+}
+
+.borderbottomlast {
+  font-size:16px;
 }
 
 .rowpatents {
