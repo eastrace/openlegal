@@ -52,6 +52,7 @@ a.btn-cta-primary,
   border: 0px solid #0352a0;
   color: #fff;
   border-radius: 4px;
+  font-size: 20px;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
@@ -200,7 +201,7 @@ input[type="button"] {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 22px;
   float: left;
 }
 .header h1.logo a {
@@ -585,7 +586,7 @@ input[type="button"] {
   max-width: 700px;
   margin: -8px auto;
   margin-bottom: 60px;
-  text-align: left;
+  text-align: center;
   color: #999999;
   font-size: 18px;
 }
@@ -2598,7 +2599,7 @@ input[type="button"] {
 }
 .footer .btn-cta,
 .footer a.btn-cta {
-  padding: 9px 55px;
+  padding: 9px 35px;
 }
 .footer .footer-col.links .fa {
   margin-right: 5px;
@@ -2703,7 +2704,7 @@ input[type="button"] {
 .footer .bottom-bar {
   background: #000000;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 18px;
   padding: 10px 0;
 }
 .footer .bottom-bar .copyright {
@@ -3360,7 +3361,7 @@ input[type="button"] {
     color: #0352a0;
     /*background: #fff;*/
     padding-left: 0;
-    padding-top: 19px;
+    padding-top: 25px;
   }
   .main-nav {
     float: right !important;
@@ -4417,6 +4418,9 @@ margin: 0 auto;
   padding-top: 80px;
   border: none;
 }
+
+
+
 .cta-section2 .title2 {
   font-size: 36px;
   font-weight: 300;
