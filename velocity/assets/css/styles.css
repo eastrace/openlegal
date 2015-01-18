@@ -4568,12 +4568,15 @@ padding-right: 0px;
   width: 94%;
 }
 
-@media (max-width: 970px) {
-  #logosize {
-    width: 115%;
-    margin-left: -10px;
-  }
+#logosizesub{
+  width: 80%;
 }
+
+#logosizesmall{
+  width: 16%;
+}
+
+
 
 
 
