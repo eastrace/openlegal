@@ -206,11 +206,11 @@ input[type="button"] {
 }
 .header h1.logo a {
   color: #fff;
-  padding: 15px 0px;
+  padding: 21px 0px;
   display: inline-block;
   text-align: center;
   line-height: 1.4;
-  max-width: 250px;
+  max-width: 210px;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 0px;
   -webkit-border-bottom-left-radius: 0px;
@@ -4528,4 +4528,48 @@ margin-left: -142px;
 padding-left: 0px;
 padding-right: 0px;
 }
+
+.img-responsive {
+  max-width: 85%;
+}
+
+.gforms_reset_css-css {
+  font-size: 15px;
+}
+
+.gform_wrapper textarea {
+  font-size: 16px;
+  font-family: 'Roboto', arial, sans-serif;
+}
+
+.gform_wrapper li {
+  font-size: 15px;
+}
+
+.gform_wrapper input {
+  border-radius: 4px;
+}
+
+.gform_wrapper textarea {
+  border-radius: 4px;
+}
+
+.gform_footer input.button {
+  font-size: 2em;
+
+}
+
+#logosize{
+  width: 94%;
+}
+
+#logosizesub{
+  width: 80%;
+}
+
+#logosizesmall{
+  width: 16%;
+}
+
+
 

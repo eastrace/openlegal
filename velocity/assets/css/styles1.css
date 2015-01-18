@@ -3249,7 +3249,7 @@ input[type="button"] {
     display: none;
   }
   .header {
-    height: 80px;
+    height: inherit;
   }
   .header.navbar-fixed-top {
     position: relative;
@@ -3283,7 +3283,7 @@ input[type="button"] {
   }
   .navbar-collapse.collapse .navbar-nav {
     float: none;
-    margin: -36px 0px;
+    margin: 0 auto;
     display: inline-block;
   }
   .blog-page .header h1.logo {
@@ -4420,6 +4420,9 @@ margin: 0 auto;
   padding-top: 80px;
   border: none;
 }
+
+
+
 .cta-section2 .title2 {
   font-size: 36px;
   font-weight: 300;
@@ -4572,6 +4575,5 @@ padding-right: 0px;
 #logosizesmall{
   width: 16%;
 }
-
 
 
