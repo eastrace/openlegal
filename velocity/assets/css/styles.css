@@ -206,11 +206,11 @@ input[type="button"] {
 }
 .header h1.logo a {
   color: #fff;
-  padding: 15px 0px;
+  padding: 21px 0px;
   display: inline-block;
   text-align: center;
   line-height: 1.4;
-  max-width: 250px;
+  max-width: 210px;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 0px;
   -webkit-border-bottom-left-radius: 0px;
@@ -4544,7 +4544,7 @@ padding-right: 0px;
 
 .gform_wrapper textarea {
   font-size: 16px;
-  font-family: 'Roboto', arial, sans-serifit;
+  font-family: 'Roboto', arial, sans-serif;
 }
 
 .gform_wrapper li {
@@ -4561,4 +4561,20 @@ padding-right: 0px;
 
 .gform_footer input.button {
   font-size: 2em;
+
 }
+
+#logosize{
+  width: 94%;
+}
+
+@media (max-width: 970px) {
+  #logosize {
+    width: 115%;
+    margin-left: -10px;
+  }
+}
+
+
+
+
