@@ -527,6 +527,20 @@ input[type="button"] {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.headline-bg12 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 350px;
+  background: #253340 url('../images/background/bg-header-small-3.jpg') no-repeat 50% top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* ======= Promo ======= */
 .promo {
   padding-top: 120px;
@@ -627,6 +641,13 @@ input[type="button"] {
   padding: 70px 0;
   border-bottom: 1px solid #eeeeee;
 }
+
+.why .getstarted {
+  padding: 35px 0;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 90px;
+}
+
 .why .item.last-item {
   border-bottom: none;
 }
