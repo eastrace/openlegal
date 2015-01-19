@@ -4592,7 +4592,16 @@ padding-right: 0px;
 
 #logosizesmall{
   width: 16%;
+ } 
+
+@media (max-width: 560px) {
+  #logosizesmall {
+    width: 40%;
+   
+  }
 }
+
+
 
 
 
